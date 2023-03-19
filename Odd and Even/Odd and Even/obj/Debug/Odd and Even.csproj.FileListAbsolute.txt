@@ -1,0 +1,6 @@
+C:\Users\JELO\Documents\SharpDevelop Projects\Odd and Even\Odd and Even\obj\Debug\Odd and Even.csprojResolveAssemblyReference.cache
+C:\Users\JELO\Documents\SharpDevelop Projects\Odd and Even\Odd and Even\bin\Debug\Odd and Even.exe.config
+C:\Users\JELO\Documents\SharpDevelop Projects\Odd and Even\Odd and Even\bin\Debug\Odd and Even.exe
+C:\Users\JELO\Documents\SharpDevelop Projects\Odd and Even\Odd and Even\bin\Debug\Odd and Even.pdb
+C:\Users\JELO\Documents\SharpDevelop Projects\Odd and Even\Odd and Even\obj\Debug\Odd and Even.exe
+C:\Users\JELO\Documents\SharpDevelop Projects\Odd and Even\Odd and Even\obj\Debug\Odd and Even.pdb
