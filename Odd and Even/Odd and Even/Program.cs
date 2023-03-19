@@ -1,11 +1,3 @@
-﻿/*
- * Created by SharpDevelop.
- * User: JELO
- * Date: 26/09/2022
- * Time: 10:18 am
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
 using System;
 
 namespace Odd_and_Even
